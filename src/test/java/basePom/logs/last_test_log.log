@@ -1,0 +1,4 @@
+2019-03-25 15:56:54,580 [TestNG-test=first-test-1] INFO  Browser "firefox" is running
+2019-03-25 15:56:54,685 [TestNG-test=first-test-1] INFO  Click in element ""
+2019-03-25 15:57:01,901 [TestNG-test=second-test-1] INFO  Browser "chrome" is running
+2019-03-25 15:57:01,988 [TestNG-test=second-test-1] INFO  Click in element ""

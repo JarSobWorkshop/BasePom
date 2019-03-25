@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="2" parallel="methods">
+    <test name="first-test">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="basePom.AppTest">
+                <methods>
+                    <include name="shouldAnswerWithTrue" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="second-test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="basePom.AppTest">
+                <methods>
+                    <include name="shouldAnswerWithTrue" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
