@@ -1,4 +1,4 @@
-2019-04-24 15:21:20,502 [TestNG-tests-2] INFO  Browser "chrome" is running
-2019-04-24 15:21:20,665 [TestNG-tests-2] INFO  Click in element ""
-2019-04-24 15:21:23,509 [TestNG-tests-1] INFO  Browser "firefox" is running
-2019-04-24 15:21:23,587 [TestNG-tests-1] INFO  Click in element ""
+2019-04-25 07:59:56,969 [TestNG-tests-2] INFO  Browser "chrome" is running
+2019-04-25 07:59:57,180 [TestNG-tests-2] INFO  Click in element ""
+2019-04-25 07:59:59,751 [TestNG-tests-1] INFO  Browser "firefox" is running
+2019-04-25 07:59:59,830 [TestNG-tests-1] INFO  Click in element ""
